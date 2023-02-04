@@ -14,8 +14,8 @@ The entirety of this project is done in C++.
 
 # Useful Websites
 
-- [Web Site Name](https://www.w3schools.com/cpp/default.asp)
-- [Web Site Name](https://stackoverflow.com/)
+- [W3 Schools](https://www.w3schools.com/cpp/default.asp)
+- [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
